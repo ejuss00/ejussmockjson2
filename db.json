@@ -1,0 +1,172 @@
+{
+  "akaunSkipma": 
+  [
+    { 
+    "id": 1, 
+    "mandateId" : 330391344035 , 
+    "status" : "AKTIF" , 
+    "mula" : "1 Jan 2023",
+    "tamat" : "1 Jul 2023",
+    "nama" : "NURUL SYAZWANI BINTI HASHIM @ ISMAIL",
+    "tarikhKemas" : "2022-11-22 09:11:40"
+    },
+    { 
+    "id": 2, 
+    "mandateId" : 330404878090 , 
+    "status" : "AKTIF" , 
+    "mula" : "26 Jan 2023",
+    "tamat" : "1 Jul 2024",
+    "nama" : "FAZLINA BINTI ROSLI",
+    "tarikhKemas" : "2022-11-25 10:15:31"
+    }
+  ],
+  "butiranpembayar": 
+  [
+    { 
+    "id": 1, 
+    "noId": 891229915009 , 
+    "nama": "ADMIN", 
+    "emel": "azim@nubicconnect.com", 
+    "phone": "0123363636",
+    "alamat": " JALAN 8 JALAN 88 KLANG 41000 KELANTAN"
+    },
+    { 
+    "id": 2, 
+    "noId": 900000000009 , 
+    "nama": "ADMIN", 
+    "emel": "test@nubicconnect.com", 
+    "phone": "0113363991",
+    "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
+    }
+  ],
+  "rumahrehat": 
+  [
+    { 
+    "id": 1, 
+    "stateId": 1 , 
+    "location": "Rumah Rehat Johor", 
+    "unit": "No 09-07", 
+    "nilai": "40.00",
+    "eps_merchant_id": "00101587674999"
+    },
+    { 
+    "id": 2, 
+    "stateId": 1 , 
+    "location": "Rumah Rehat Johor", 
+    "unit": "No 09-09", 
+    "nilai": "40.00",
+    "eps_merchant_id": "00101587674999"
+    },
+    { 
+    "id": 3, 
+    "stateId": 2 , 
+    "location": "Langkawi", 
+    "unit": "No 10", 
+    "nilai": "50.00",
+    "eps_merchant_id": "00101585474999"
+    },
+    { 
+    "id": 4, 
+    "stateId": 3 , 
+    "location": "Rumah Rehat Kelantan", 
+    "unit": "RV-10C", 
+    "nilai": "50.00",
+    "eps_merchant_id": "00101588574999"
+    },
+    { 
+    "id": 5, 
+    "stateId": 5 , 
+    "location": "The Regency Port Dickson", 
+    "unit": "Angsana (Tkt 4 - No 9)", 
+    "nilai": "30.00",
+    "eps_merchant_id": "00101586174999"
+    },
+    { 
+    "id": 6, 
+    "stateId": 10 , 
+    "location": "Petaling Jaya", 
+    "unit": "Banglo", 
+    "nilai": "90.00",
+    "eps_merchant_id": "00101587774999"
+    },
+    { 
+    "id": 7, 
+    "stateId": 10 , 
+    "location": "Petaling Jaya", 
+    "unit": "Bilik Chengal (Bilik Utama)", 
+    "nilai": "30.00",
+    "eps_merchant_id": "00101587774999"
+    }
+  ],
+  "kolej&institut": 
+  [
+    { 
+    "id": 1, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN COMPUTER NETWORKING", 
+    "sem": "1/2021", 
+    "yuran": 110.00,
+    "tutup": "31 Jul 2023"
+    },
+    { 
+    "id": 2, 
+    "jenisInstitutid": "KPM" , 
+    "namaInstitut": "KPM INDERA MAHKOTA",
+    "level": "Diploma",
+    "namaKursus": "DIPLOMA IN CREATIVE DIGITAL MEDIA & PRODUCTION", 
+    "sem": "1/2021", 
+    "yuran": 110.00,
+    "tutup": "31 Jul 2023"
+    },
+    { 
+    "id": 3, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI KUALA LUMPUR)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 4, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI TENAGA NASIONAL)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 5, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (MULTIMEDIA UNIVERSITY)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 6, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI KEJURUTERAAN & TEKNOLOGI KOLEJ MARA (UNIVERSITI TEKNOLOGI MALAYSIA)", 
+    "sem": "1/2020", 
+    "yuran": 180.00,
+    "tutup": "7 Ogs 2023"
+    }
+  ],
+  "profile": 
+  {
+    "nama": "ISAM BIN MOHD IBRAHIM",
+    "phone": "01110251515",
+    "profileId": "891229915009",
+    "emel" : "isam@cprosolutions.com.my",
+    "nilai": "21,000.00"
+  }
+}
