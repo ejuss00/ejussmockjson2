@@ -3,21 +3,17 @@
   [
     { 
     "id": 1, 
-    "mandateId" : 330391344035 , 
-    "status" : "AKTIF" , 
-    "mula" : "1 Jan 2023",
-    "tamat" : "1 Jul 2023",
-    "nama" : "NURUL SYAZWANI BINTI HASHIM @ ISMAIL",
-    "tarikhKemas" : "2022-11-22 09:11:40"
+    "skipmaId" : 340400695199 , 
+    "idAkaun" : 891229915009 , 
+    "nama" : "TESTING 1",
+    "nilai" : "2,500.00"
     },
     { 
     "id": 2, 
-    "mandateId" : 330404878090 , 
-    "status" : "AKTIF" , 
-    "mula" : "26 Jan 2023",
-    "tamat" : "1 Jul 2024",
-    "nama" : "FAZLINA BINTI ROSLI",
-    "tarikhKemas" : "2022-11-25 10:15:31"
+    "skipmaId" : 340400695212 , 
+    "idAkaun" : 891229915009 , 
+    "nama" : "TESTING 1",
+    "nilai" : "3,000.00"
     }
   ],
   "butiranpembayar": 
