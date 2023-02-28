@@ -16,23 +16,48 @@
     "nilai" : "3,000.00"
     }
   ],
-  "butiranpembayar": 
+  "akaunAnda": 
   [
     { 
     "id": 1, 
-    "noId": 891229915009 , 
-    "nama": "ADMIN", 
-    "emel": "azim@nubicconnect.com", 
-    "phone": "0123363636",
-    "alamat": " JALAN 8 JALAN 88 KLANG 41000 KELANTAN"
+    "noId": 330408242211 , 
+    "pinjaman": "PINJAMAN, BANTUAN PENUH", 
+    "nilai": "90,456.26", 
+    "idPemilik": "891229915009",
+    "status": "AKTIF",
+    "nama": "ISAM",
+    "statusAkaun": "ACTIVE STUDENT"
     },
     { 
     "id": 2, 
-    "noId": 900000000009 , 
-    "nama": "ADMIN", 
-    "emel": "test@nubicconnect.com", 
-    "phone": "0113363991",
-    "alamat": " JALAN 1 JALAN 101 SEMENTA 41700 SELANGOR"
+    "noId": 340400000315 , 
+    "pinjaman": "PINJAMAN KOMPUTER", 
+    "nilai": "5,529.42", 
+    "idPemilik": "891229915009",
+    "status": "AKTIF",
+    "nama": "TEST ACCOUNT KOMPUTER",
+    "statusAkaun": ""
+    },
+    { 
+    "id": 3, 
+    "noId": 630070001933 , 
+    "pinjaman": "KONTREK", 
+    "nilai": "4,550.06", 
+    "idPemilik": "891229915009",
+    "status": "TIADA",
+    "nama": "TEST ACCOUNT PERNIAGAAN",
+    "statusAkaun": ""
+    },
+    { 
+    "id": 4, 
+    "noId": 080007002004 , 
+    "pinjaman": "BAZAR MERSING", 
+    "nilai": "80.00", 
+    "idPemilik": "891229915009",
+    "status": "TIADA",
+    "nama": "TEST ACCOUNT SEWA",
+    "statusAkaun": "",
+    "alamat": "BAZAR MARA JALAN SULAIMAN 86800 MERSING JOHOR"
     }
   ],
   "rumahrehat": 
