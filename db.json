@@ -70,8 +70,20 @@
     "jumTungakSewa" : " 0.00",
     "idPemilik" : "891229915009",
     "status": "TIADA",
+    "namaPemilik": "TEST ACCOUNT SEWA",
     "alamat": "BAZAR MARA JALAN SULAIMAN 86800 MERSING JOHOR"
-
+    },
+    {
+    "id": 2, 
+    "noId": 280007002004 , 
+    "noAkaun": "920070302086",
+    "pinjaman": "BAZAR DAMANSARA", 
+    "nilai": "100.00", 
+    "jumTungakSewa": " 0.00",
+    "idPemilik" : "891229915009",
+    "status": "AKTIF",
+    "namaPemilik": "DANISH",
+    "alamat": "DAMANSARA DAMAI"
     }
   ],
   "kolej&institut": 
