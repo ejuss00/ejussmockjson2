@@ -40,6 +40,16 @@
     },
     { 
     "id": 3, 
+    "noId": 350070001459 , 
+    "pinjaman": "PENDAHULUAN PELAJARAN", 
+    "nilai": "1,000.00", 
+    "idPemilik": "891229915009",
+    "status": "AKIF",
+    "nama": "TEST ACCOUNT PENDAHULUAN",
+    "statusAkaun": "NOTIS 14 HARI"
+    },
+    { 
+    "id": 4, 
     "noId": 630070001933 , 
     "pinjaman": "KONTREK", 
     "nilai": "4,550.06", 
@@ -59,63 +69,17 @@
     "statusAkaun": ""
     }
   ],
-  "rumahrehat": 
+  "akaunAndaSewa": 
   [
     { 
     "id": 1, 
-    "stateId": 1 , 
-    "location": "Rumah Rehat Johor", 
-    "unit": "No 09-07", 
-    "nilai": "40.00",
-    "eps_merchant_id": "00101587674999"
-    },
-    { 
-    "id": 2, 
-    "stateId": 1 , 
-    "location": "Rumah Rehat Johor", 
-    "unit": "No 09-09", 
-    "nilai": "40.00",
-    "eps_merchant_id": "00101587674999"
-    },
-    { 
-    "id": 3, 
-    "stateId": 2 , 
-    "location": "Langkawi", 
-    "unit": "No 10", 
-    "nilai": "50.00",
-    "eps_merchant_id": "00101585474999"
-    },
-    { 
-    "id": 4, 
-    "stateId": 3 , 
-    "location": "Rumah Rehat Kelantan", 
-    "unit": "RV-10C", 
-    "nilai": "50.00",
-    "eps_merchant_id": "00101588574999"
-    },
-    { 
-    "id": 5, 
-    "stateId": 5 , 
-    "location": "The Regency Port Dickson", 
-    "unit": "Angsana (Tkt 4 - No 9)", 
-    "nilai": "30.00",
-    "eps_merchant_id": "00101586174999"
-    },
-    { 
-    "id": 6, 
-    "stateId": 10 , 
-    "location": "Petaling Jaya", 
-    "unit": "Banglo", 
-    "nilai": "90.00",
-    "eps_merchant_id": "00101587774999"
-    },
-    { 
-    "id": 7, 
-    "stateId": 10 , 
-    "location": "Petaling Jaya", 
-    "unit": "Bilik Chengal (Bilik Utama)", 
-    "nilai": "30.00",
-    "eps_merchant_id": "00101587774999"
+    "noId": 080007002004 , 
+    "noAkaun": "820070302086",
+    "pinjaman": "BAZAR MERSING", 
+    "nilai": "80.00", 
+    "jumTungakSewa" : " 0.00",
+    "idPemilik" : "891229915009",
+    "status": "TIADA",
     }
   ],
   "kolej&institut": 
