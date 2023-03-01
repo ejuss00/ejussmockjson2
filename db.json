@@ -57,16 +57,6 @@
     "status": "TIADA",
     "nama": "TEST ACCOUNT PERNIAGAAN",
     "statusAkaun": ""
-    },
-    { 
-    "id": 4, 
-    "noId": 180007002004 , 
-    "pinjaman": "BAZAR MERSING", 
-    "nilai": "80.00", 
-    "idPemilik": "891229915009",
-    "status": "TIADA",
-    "nama": "TEST ACCOUNT SEWA",
-    "statusAkaun": ""
     }
   ],
   "akaunAndaSewa": 
@@ -79,7 +69,9 @@
     "nilai": "80.00", 
     "jumTungakSewa" : " 0.00",
     "idPemilik" : "891229915009",
-    "status": "TIADA"
+    "status": "TIADA",
+    "alamat": "BAZAR MARA JALAN SULAIMAN 86800 MERSING JOHOR"
+
     }
   ],
   "kolej&institut": 
