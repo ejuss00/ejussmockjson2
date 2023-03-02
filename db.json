@@ -1,19 +1,33 @@
 {
-  "akaunSkipma": 
+  "programUsahawan": 
   [
     { 
     "id": 1, 
-    "skipmaId" : 340400695199 , 
-    "idAkaun" : 891229915009 , 
-    "nama" : "TESTING 1",
-    "nilai" : "2,500.00"
+    "title" : "Seminar Aspirasi Keusahawanan Bumiputera" , 
+    "location" : "Melaka International Trade Center (MITC)" , 
+    "session" : "21 Sep - 23 Sep",
+    "closedDate" : "24 Sep 2024"
     },
     { 
     "id": 2, 
-    "skipmaId" : 340400695212 , 
-    "idAkaun" : 891229915009 , 
-    "nama" : "TESTING 1",
-    "nilai" : "3,000.00"
+    "title" : "Program Wanita Inspirasi Ekonomi" , 
+    "location" : "" , 
+    "session" : "",
+    "closedDate" : "29 Sep 2024"
+    },
+    { 
+    "id": 3, 
+    "title" : "Workshop Evolution Towards Excellence" , 
+    "location" : "Hotel Grand Continental" , 
+    "session" : "8 Oct - 10 Oct",
+    "closedDate" : "10 Okt 2024"
+    },
+    { 
+    "id": 4, 
+    "title" : "Valve Economics Talk" , 
+    "location" : "Melaka International Trade Center (MITC)" , 
+    "session" : "21 June - 24 June",
+    "closedDate" : "24 June 2023"
     }
   ],
   "akaunAnda": 
