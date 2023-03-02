@@ -100,7 +100,7 @@
     "alamat": "DAMANSARA DAMAI"
     }
   ],
-  "kolejDanInstitut": 
+  "kolej&institut": 
   [
     { 
     "id": 1, 
@@ -109,7 +109,7 @@
     "level": "Diploma",
     "namaKursus": "DIPLOMA IN COMPUTER NETWORKING", 
     "sem": "1/2021", 
-    "yuran": 110.00,
+    "yuran": "110.00",
     "tutup": "31 Jul 2023"
     },
     { 
@@ -119,7 +119,7 @@
     "level": "Diploma",
     "namaKursus": "DIPLOMA IN CREATIVE DIGITAL MEDIA & PRODUCTION", 
     "sem": "1/2021", 
-    "yuran": 110.00,
+    "yuran": "110.00",
     "tutup": "31 Jul 2023"
     },
     { 
@@ -129,7 +129,7 @@
     "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
     "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI KUALA LUMPUR)", 
     "sem": "1/2020", 
-    "yuran": 180.00,
+    "yuran": "180.00",
     "tutup": "7 Ogs 2023"
     },
     { 
@@ -139,7 +139,7 @@
     "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
     "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (UNIVERSITI TENAGA NASIONAL)", 
     "sem": "1/2020", 
-    "yuran": 180.00,
+    "yuran": "180.00",
     "tutup": "7 Ogs 2023"
     },
     { 
@@ -149,7 +149,7 @@
     "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
     "namaKursus": "ASASI PERNIAGAAN KOLEJ MARA (MULTIMEDIA UNIVERSITY)", 
     "sem": "1/2020", 
-    "yuran": 180.00,
+    "yuran": "180.00",
     "tutup": "7 Ogs 2023"
     },
     { 
@@ -159,8 +159,18 @@
     "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
     "namaKursus": "ASASI KEJURUTERAAN & TEKNOLOGI KOLEJ MARA (UNIVERSITI TEKNOLOGI MALAYSIA)", 
     "sem": "1/2020", 
-    "yuran": 180.00,
+    "yuran": "180.00",
     "tutup": "7 Ogs 2023"
+    },
+    { 
+    "id": 7, 
+    "jenisInstitutid": "KM" , 
+    "namaInstitut": "KOLEJ MARA KUALA NERANGG",
+    "level": "Pra-universiti (termasuk matriks, asasi, A-level, IB, dan IEP)",
+    "namaKursus": "ASASI KEDOKTORAN PERUBATAN BIO", 
+    "sem": "1/2022", 
+    "yuran": "20000.00",
+    "tutup": "7 Sep 2023"
     }
   ],
   "profile": 
