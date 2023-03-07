@@ -38,7 +38,7 @@
     "jenisTransaksi": "Kompaun Kenderaan", 
     "nilai": "10.00", 
     "status": "FAIL",
-    "nama": "Maybank2U"
+    "namaBank": "Maybank2U"
     },
     { 
     "id": 2, 
@@ -46,7 +46,7 @@
     "jenisTransaksi": "Bayaran Fasiliti", 
     "nilai": "999.00", 
     "status": "FAIL",
-    "nama": "Public Bank"
+    "namaBank": "Public Bank"
     },
     { 
     "id": 3, 
@@ -54,16 +54,16 @@
     "jenisTransaksi": "Bayaran Fasiliti", 
     "nilai": "99999.00", 
     "status": "FAIL",
-    "nama": "CIMB Bank"
+    "namaBank": "CIMB Bank"
     },
     { 
-    "id": 4, 
+    "id": 3, 
     "finalTime": "2023-02-14 10:08:05" , 
     "jenisTransaksi": "Sewa Parkir MARA", 
     "nilai": "799.00", 
     "status": "FAIL",
-    "nama": "Public Bank"
-    }
+    "namaBank": "Public Bank"
+    },
   ],
   "akaunAndaSewa": 
   [
