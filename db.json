@@ -176,12 +176,63 @@
     "tutup": "7 Sep 2023"
     }
   ],
-  "profile": 
-  {
-    "nama": "ISAM BIN MOHD IBRAHIM",
-    "phone": "01110251515",
-    "profileId": "891229915009",
-    "emel" : "isam@cprosolutions.com.my",
-    "nilai": "21,000.00"
-  }
+ "bayaranPemprosesan": 
+  [
+    { 
+    "id": 1, 
+    "title": "Proses Spike testing" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "15.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 2, 
+    "title": "Proses Spike2" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
+    "nilai": "15.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 3, 
+    "title": "Bayaran Prosesan MISA" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "1000.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 4, 
+    "title": "Proses Spike2 testing" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
+    "nilai": "15.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 5, 
+    "title": "Proses Spike" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "18.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 6, 
+    "title": "Proses Habis" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "63.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 7, 
+    "title": "Proses Damak" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
+    "nilai": "111.00", 
+    "tahun": "2023"
+    },
+    {
+    "id": 8, 
+    "title": "Bayaran Prosesan MISA" , 
+    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
+    "nilai": "1000.00", 
+    "tahun": "2023"
+    }
+  ]
 }
