@@ -183,56 +183,56 @@
     "title": "Proses Spike testing" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
     "nilai": "15.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "Selangor"
     },
     {
     "id": 2, 
     "title": "Proses Spike2" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
     "nilai": "15.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "Negeri Sembilan"
     },
     {
     "id": 3, 
-    "title": "Bayaran Prosesan MISA" , 
-    "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
-    "nilai": "1000.00", 
-    "tahun": "2023"
-    },
-    {
-    "id": 4, 
     "title": "Proses Spike2 testing" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
     "nilai": "15.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "WP Kuala Lumpur"
     },
     {
-    "id": 5, 
+    "id": 4, 
     "title": "Proses Spike" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
     "nilai": "18.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "WP Kuala Lumpur"
     },
     {
-    "id": 6, 
+    "id": 5, 
     "title": "Proses Habis" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
     "nilai": "63.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "Selangor"
     },
     {
-    "id": 7, 
+    "id": 6, 
     "title": "Proses Damak" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN2",
     "nilai": "111.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "WP Labuan"
     },
     {
-    "id": 8, 
+    "id": 7, 
     "title": "Bayaran Prosesan MISA" , 
     "bahagian": "BAHAGIAN PEMBIAYAAN PERNIAGAAN",
     "nilai": "1000.00", 
-    "tahun": "2023"
+    "tahun": "2023",
+    "negeri": "WP Kuala Lumpur"
     }
   ]
 }
